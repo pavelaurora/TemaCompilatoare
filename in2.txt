@@ -1,0 +1,10 @@
+PROGRAM suma_3_numere
+VAR 
+a,b,c,suma:INTEGER
+BEGIN
+READ(a);
+READ(b);
+READ(c);
+suma:=a+b+c;
+WRITE(suma)
+END.

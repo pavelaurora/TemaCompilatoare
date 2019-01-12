@@ -1,0 +1,9 @@
+PROGRAM id 
+VAR 
+id:INTEGER;
+id,id,id:INTEGER 
+BEGIN 
+id:=id + (id-id);
+WRITE(id);
+READ(id)
+END.

@@ -1,0 +1,6 @@
+PROGRAM id 
+VAR 
+id : INTEGER
+BEGIN 
+FOR id:=id+id*id TO id+id+id*id DO id:=id 
+END.

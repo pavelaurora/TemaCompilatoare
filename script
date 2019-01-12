@@ -1,0 +1,3 @@
+yacc -d comp.y
+lex compl.l
+gcc lex.yy.c y.tab.c -lfl
